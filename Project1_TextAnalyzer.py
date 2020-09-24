@@ -113,7 +113,7 @@ for i in range(len(words_length)):
     print(sorted(words_length)[i], "*"*number, number)
 
 
-# 7 number sum
+# 7 print number sum
 print(separator)
 print(f'If we summed all the numbers in this text we would get: {words_number_sum}')
 print(separator)
